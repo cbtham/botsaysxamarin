@@ -17,6 +17,9 @@ A chat bot.
 
    https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-how-to-configure-facebook-authentication
 
+   Tips: Create a new Azure Mobile App. You can use any platform you want. Refer https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started
+   (right hand side to change platform)
+
 3. Create an empty Xamarin project.
 4. Add a button to the MainPage.
 5. Add the logic - upon authenticated, navigate to the second page which contains a webview. You can choose your platform of choice.
